@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to right, red, yellow, purple, green);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: end;
+    margin: 4px;
+}
+
+.cartas {
+    display: inline;
+    margin: 4px;
+}
+
+.carta1 {
+    transform: rotate(-30deg);
+}
+
+.carta2 {
+    transform: rotate(-10deg);
+}
+
+.carta3 {
+    transform: rotate(10deg);
+}
+
+.carta4 {
+    transform: rotate(30deg);
+}
